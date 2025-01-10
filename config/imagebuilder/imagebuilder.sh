@@ -202,7 +202,7 @@ rebuild_firmware() {
         luci-proto-ncm luci-proto-openconnect luci-proto-ppp luci-proto-qmi luci-proto-relay \
         \
         luci-app-amlogic luci-i18n-amlogic-zh-cn \
-        wireguard-tools nginx-full nginx-util nginx-mod-luci luci-proto-wireguard \
+        wireguard-tools nginx-full nginx-util nginx-mod-luci luci-proto-wireguard ip-full \
         \
         ${config_list} \
         "
