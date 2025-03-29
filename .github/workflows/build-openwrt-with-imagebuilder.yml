@@ -222,7 +222,7 @@ on:
         options:
           - ophub
           - angel
-          - yourname
+          - sitepi
 
 env:
   TZ: America/New_York
